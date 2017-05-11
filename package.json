@@ -1,0 +1,14 @@
+{
+  "name": "cordova-version-bump",
+  "version": "0.0.0",
+  "description": "Increases the version of your cordova app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  }
+}
